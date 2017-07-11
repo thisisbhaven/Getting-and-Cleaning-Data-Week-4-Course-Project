@@ -1,0 +1,21 @@
+---
+title: "ReadMe.Md."
+author: "Kathy Ashenfelter"
+date: "July 10, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Week 4 Class Project
+Kathleen Targowski Ashenfelter
+
+
+#Introduction 
+R code for Cleaning and Working with Data
+
+
+
