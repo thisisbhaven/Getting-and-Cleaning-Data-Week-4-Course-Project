@@ -2,10 +2,7 @@
 title: "Codebook.md"
 output: github_document
 author: "Kathy Targowski Ashenfelter"
-Class: Getting and Cleaning Data, Coursera, Johns Hopkins University, Summer 2017
 ---
-
-
 
 ## Libraries Required
 
@@ -73,6 +70,6 @@ Source code "run_analysis.R" loads the descriptive feature and activity labels.
 Source code "run_analysis.R" adds appropriately descriptive variable names to the large dataset columns (variables).
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-Source code "run_analysis.R" calculates the average for all measurement columns grouped by variables Activity and Subject and then writes the outputto a local text file named "tidydata.txt""
+Source code "run_analysis.R" calculates the average for all measurement columns grouped by variables Activity and Subject and then writes the output to a local text file named "tidydata.txt""
 
 
